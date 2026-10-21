@@ -1,0 +1,107 @@
+ffhq:
+  neutral_prompt: "This is a photo of a person."
+  prompts:
+    angry:
+      model_prompt: "angry"
+      clip_target: "This is a photo of an angry person."
+      hpsv3_target: "This is a photo of an angry person."
+    bald:
+      model_prompt: "bald"
+      clip_target: "This is a photo of a bald person."
+      hpsv3_target: "This is a photo of a bald person."
+    beard:
+      model_prompt: "beard"
+      clip_target: "This is a photo of a person with beard."
+      hpsv3_target: "This is a photo of a person with beard."
+    black hair:
+      model_prompt: "black hair"
+      clip_target: "This is a photo of a person with black hair."
+      hpsv3_target: "This is a photo of a person with black hair."
+    blonde hair:
+      model_prompt: "blonde hair"
+      clip_target: "This is a photo of a person with blonde hair."
+      hpsv3_target: "This is a photo of a person with blonde hair."
+    bob cut:
+      model_prompt: "bob cut"
+      clip_target: "This is a photo of a person with bob cut."
+      hpsv3_target: "This is a photo of a person with bob cut."
+    curly hairstyle:
+      model_prompt: "curly hairstyle"
+      clip_target: "This is a photo of a person with curly hair."
+      hpsv3_target: "This is a photo of a person with curly hair."
+    happy:
+      model_prompt: "happy"
+      clip_target: "This is a photo of a happy person."
+      hpsv3_target: "This is a photo of a happy person."
+    makeup:
+      model_prompt: "makeup"
+      clip_target: "This is a photo of a person wearing makeup."
+      hpsv3_target: "This is a photo of a person wearing makeup."
+    mohawk hairstyle:
+      model_prompt: "mohawk hairstyle"
+      clip_target: "This is a photo of a person with mohawk hairstyle."
+      hpsv3_target: "This is a photo of a person with mohawk hairstyle."
+    purple hairstyle:
+      model_prompt: "purple hairstyle"
+      clip_target: "This is a photo of a person with purple hair."
+      hpsv3_target: "This is a photo of a person with purple hair."
+    sad:
+      model_prompt: "sad"
+      clip_target: "This is a photo of a sad person."
+      hpsv3_target: "This is a photo of a sad person."
+    straight hair:
+      model_prompt: "straight hair"
+      clip_target: "This is a photo of a person with straight hair."
+      hpsv3_target: "This is a photo of a person with straight hair."
+    surprised:
+      model_prompt: "surprised"
+      clip_target: "This is a photo of a surprised person."
+      hpsv3_target: "This is a photo of a surprised person."
+
+cat:
+  neutral_prompt: "This is a photo of a cat."
+  prompts:
+    cute cat:
+      model_prompt: "cute cat"
+      clip_target: "This is a photo of a cute cat."
+      hpsv3_target: "This is a photo of a cute cat."
+    fat cat:
+      model_prompt: "fat cat"
+      clip_target: "This is a photo of a fat cat."
+      hpsv3_target: "This is a photo of a fat cat."
+    lying cat:
+      model_prompt: "lying cat"
+      clip_target: "This is a photo of a lying cat."
+      hpsv3_target: "This is a photo of a lying cat."
+    orange cat:
+      model_prompt: "orange cat"
+      clip_target: "This is a photo of an orange cat."
+      hpsv3_target: "This is a photo of an orange cat."
+    standing cat:
+      model_prompt: "standing cat"
+      clip_target: "This is a photo of a standing cat."
+      hpsv3_target: "This is a photo of a standing cat."
+
+church:
+  neutral_prompt: "This is a photo of a church."
+  prompts:
+    gothic church:
+      model_prompt: "gothic church"
+      clip_target: "This is a photo of a gothic church."
+      hpsv3_target: "This is a photo of a gothic church."
+    more trees:
+      model_prompt: "more trees"
+      clip_target: "This is a photo of a church with more trees."
+      hpsv3_target: "This is a photo of a church with more trees."
+    round roof:
+      model_prompt: "round roof"
+      clip_target: "This is a photo of a church with round roof."
+      hpsv3_target: "This is a photo of a church with round roof."
+    spires:
+      model_prompt: "spires"
+      clip_target: "This is a photo of a church with spires."
+      hpsv3_target: "This is a photo of a church with spires."
+    white church:
+      model_prompt: "white church"
+      clip_target: "This is a photo of a white church."
+      hpsv3_target: "This is a photo of a white church."
