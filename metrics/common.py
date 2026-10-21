@@ -72,7 +72,7 @@ def write_result(output: Path, metric: str, values, **metadata):
     result = {
         "metric": metric,
         "mean": float(array.mean()),
-        "std": float(array.std(ddof=0)),
+        "std": float(array.std(ddof=1)),
         "n": int(array.size),
         **metadata,
     }
