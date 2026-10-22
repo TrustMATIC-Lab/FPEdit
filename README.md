@@ -102,7 +102,7 @@ For LSUN Cat and LSUN Church, use `cat` or `church` as the first argument for th
 ## Metrics
 
 Images are evaluated at 256x256. Each script
-writes one JSON file containing `mean`, population `std`, and `n`.
+writes one JSON file containing `mean`, `std`, and `n`.
 
 Metric inputs are fixed as follows:
 
